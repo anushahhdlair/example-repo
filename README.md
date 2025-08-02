@@ -8,7 +8,7 @@ Second change!
 
 http://gitforeverybody.com/ is designed to help people learn Git (and more advanced Git) from scratch. It is a 3 hour premium course.
 
-In this Git Essentials / Git for Everybody course, you'll learn everything I use in a daily work flow, including:
+In this Git Essentials / Git for Everybody course, you'll learn everything I use in a daily work flow, including: 
 * creating a new repo
 * adding ssh keys
 * branching
